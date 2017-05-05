@@ -1,0 +1,76 @@
+{
+    "mentors": [
+        {
+            "name": "Adam",
+            "votes": {
+                "positive": ["Floki", "Bjorn"],
+                "negative": ["Cersei", "Hound"]
+            }
+        },
+        {
+            "name": "Richard",
+            "votes": {
+                "positive": ["Cersei"],
+                "negative": ["Jamie", "Bjorn"]
+            }
+        },
+        {
+            "name": "Bob",
+            "votes": {
+                "positive": ["Floki"],
+                "negative": ["Bjorn"]
+            }
+        },
+        {
+            "name": "Steve",
+            "votes": {
+                "positive": ["Floki"],
+                "negative": ["Hound", "Cersei", "Jamie"]
+            }
+        },
+        {
+            "name": "Willi",
+            "votes": {
+                "positive": ["Hound", "Jamie"],
+                "negative": ["Cersei"]
+            }
+        }
+    ],
+    "mentees": [
+        {
+            "name": "Jamie",
+            "votes": {
+                "positive": ["Willi"],
+                "negative": ["Steve", "Bob"]
+            }
+        },
+        {
+            "name": "Bjorn",
+            "votes": {
+                "positive": ["Steve", "Willi", "Adam"],
+                "negative": ["Bob", "Richard"]
+            }
+        },
+        {
+            "name": "Cersei",
+            "votes": {
+                "positive": ["Bob", "Willi"],
+                "negative": ["Adam"]
+            }
+        },
+        {
+            "name": "Floki",
+            "votes": {
+                "positive": ["Bob", "Steve"],
+                "negative": ["Willi"]
+            }
+        },
+        {
+            "name": "Hound",
+            "votes": {
+                "positive": ["Bob", "Steve"],
+                "negative": ["Adam", "Willi", "Richard"]
+            }
+        }
+    ]
+}
